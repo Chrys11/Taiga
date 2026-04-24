@@ -1,8 +1,8 @@
-# VaultEdge – Financial & Loan Services Website Template
+# Taiga Website – Digital & Fintech Company Website
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/vaultedge/)
+ - [Demo](https://#)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/vaultedge/)
